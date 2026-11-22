@@ -3,7 +3,7 @@
 #include <cstring>
 #include <cmath>
 using namespace std;
-
+//c++ back functions
 int main()
 {
 
